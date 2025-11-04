@@ -1,4 +1,4 @@
-id,'preg','plas','pres','skin','insu','mass','pedi','age','class'
+id,preg,plas,pres,skin,insu,mass,pedi,age,class
 1,0,179,90,27,0,44.1,0.686,23,tested_positive
 2,9,164,84,21,0,30.8,0.831,32,tested_positive
 3,0,104,76,0,0,18.4,0.582,27,tested_negative
